@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WeatherTracker.git/static/css/main.3ed0ebf9.css",
+    "main.js": "/WeatherTracker.git/static/js/main.72103bb3.js",
+    "static/js/787.d62d1c65.chunk.js": "/WeatherTracker.git/static/js/787.d62d1c65.chunk.js",
+    "index.html": "/WeatherTracker.git/index.html",
+    "main.3ed0ebf9.css.map": "/WeatherTracker.git/static/css/main.3ed0ebf9.css.map",
+    "main.72103bb3.js.map": "/WeatherTracker.git/static/js/main.72103bb3.js.map",
+    "787.d62d1c65.chunk.js.map": "/WeatherTracker.git/static/js/787.d62d1c65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ed0ebf9.css",
+    "static/js/main.72103bb3.js"
+  ]
+}
